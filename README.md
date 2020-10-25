@@ -4,3 +4,6 @@ Aufgabe 1:
 
 Aufgabe 2:
 [Link to Aufgabe 2](https://www.notion.so/The-Wallet-Project-56d6003e070647a6a5c6547b4d001f37) 
+
+Aufgabe 3:
+[Link to Aufgabe 3](https://www.notion.so/GUI-Project-1bf74c7915f2450f9f1b2de04f94a564)
