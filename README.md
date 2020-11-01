@@ -7,3 +7,9 @@ Aufgabe 2:
 
 Aufgabe 3:
 [Link to Aufgabe 3](https://www.notion.so/GUI-Project-1bf74c7915f2450f9f1b2de04f94a564)
+
+Aufgabe 4.1:
+[Link to Aufgabe 4.1](https://www.figma.com/proto/Goe2thE3389PCp60XWrGw4/GUI-Smartwatch?node-id=1%3A2&scaling=scale-down)
+
+Aufgabe 4.2:
+[Link to Aufgabe 4.2] (https://www.figma.com/proto/cAURnzkD0LGeQ7Mt70XyT5/GUI-Tablet?node-id=2%3A2&scaling=scale-down)
