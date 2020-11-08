@@ -13,3 +13,6 @@ Aufgabe 4.1:
 
 Aufgabe 4.2:
 [Link to Aufgabe 4.2](https://www.figma.com/proto/cAURnzkD0LGeQ7Mt70XyT5/GUI-Tablet?node-id=2%3A2&scaling=scale-down)
+
+Aufgabe 5:
+[Link to Aufgabe 5](https://www.notion.so/Design-Transformation-Challenge-227ceecbda654f65bf7a89d542d9c85d)
