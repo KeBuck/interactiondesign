@@ -21,5 +21,5 @@ Aufgabe 5 - VUI (Concept, Dialogflow and Prototype):
 [Link to Aufgabe 5](https://www.notion.so/VUI-b6334fcd291944de87cf9b3a003bdec6)
 
 Aufgabe 6 - VUI (High Fidelity Prototype):
-[Link to Aufgabe 6] (https://www.notion.so/VUI-Prototyping-7ea208f809d841bc93ee601017443120)
+[Link to Aufgabe 6](https://www.notion.so/VUI-Prototyping-7ea208f809d841bc93ee601017443120)
 
