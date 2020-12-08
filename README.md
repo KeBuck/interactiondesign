@@ -23,3 +23,6 @@ Aufgabe 5 - VUI (Concept, Dialogflow and Prototype):
 Aufgabe 6 - VUI (High Fidelity Prototype):
 [Link to Aufgabe 6](https://www.notion.so/VUI-Prototyping-7ea208f809d841bc93ee601017443120)
 
+Aufgabe 7 - GUI Test (Ergebniss):
+[Link to Aufgabe 7](https://www.notion.so/GUI-Test-Pr-sentation-ac80a225168d4654a288553376ca7309)
+
