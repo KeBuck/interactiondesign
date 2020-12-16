@@ -26,3 +26,6 @@ Aufgabe 6 - VUI (High Fidelity Prototype):
 Aufgabe 7 - GUI Test (Ergebniss):
 [Link to Aufgabe 7](https://www.notion.so/GUI-Test-Pr-sentation-ac80a225168d4654a288553376ca7309)
 
+Aufgabe 8 - iOT (Organic Electronics):
+[Link to Aufgabe 8](https://www.notion.so/iOT-Projekt-b3292dbd4c2849b39522d38bd151c8db)
+
