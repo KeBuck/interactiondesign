@@ -29,8 +29,6 @@ Aufgabe 7 - GUI Test (Ergebniss):
 Aufgabe 8 - iOT (Organic Electronics):
 [Link to Aufgabe 8](https://www.notion.so/iOT-Projekt-b3292dbd4c2849b39522d38bd151c8db)
 
-Aufgabe 10 | Teil 1 - iOT (Organic Electronics):
 [Link to Aufgabe 10 | Teil 1](https://www.notion.so/iOT-project-development-a77ac273ee9a4a198ce971655df35bfe)
 
-Aufgabe 10 | Teil 2 - iOT (Organic Electronics):
 [Link to Aufgabe 10 | Teil 2](https://www.notion.so/iOT-Project-40dd2f1cf43447718caa8456b74c7647)
